@@ -1,0 +1,46 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.bg-orange-color{
+    color: white;
+    background-color: tomato;
+}
+.text-orange-color{
+    color: tomato;
+}
+.poppies{
+    font-family: 'Poppins', sans-serif;
+}
+.inter{
+    font-family: 'Inter', sans-serif;
+}
+.weight-300{
+    font-weight: 300;
+}
+.weight-400{
+    font-weight: 400;
+}
+.weight-500{
+    font-weight: 500;
+}
+.weight-600{
+    font-weight: 600;
+}
+
+.header-background{
+    background-color: #264653;
+}
+.grayscale{
+    filter: grayscale(85%);
+}
+.height-width{
+    height: 150px;
+    width: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px 20px;
+}
+.footer-text-red-color{
+    color: red;
+}
